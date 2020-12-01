@@ -67,4 +67,4 @@ For the output, the floating-point numbers will have precision of maximum
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/samuhay/Phython-Binary-Data-Converter/blob/main/LICENSE)
