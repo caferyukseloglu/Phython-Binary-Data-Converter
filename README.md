@@ -1,4 +1,5 @@
 # Binary Data Converter
+## CSE2138 - Project 1
 
 The purpose of this assignment is to become more familiar with bit-level
 representations of integers and floating-point numbers. 
